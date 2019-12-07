@@ -1,0 +1,17 @@
+.options {
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.delete-btn {
+    background-color: transparent;
+    color: rgb(80, 80, 80);
+    padding: 40px 10px 0px 30px;
+    font-size: 20px;
+    border: none;
+    right: 0;
+    position: relative;
+    outline: none;
+}

@@ -1,0 +1,1 @@
+INSERT INTO Book(title, isbn) VALUES ('The Java Tutorial. Sixth Edition', '9780134034089');

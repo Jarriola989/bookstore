@@ -1,0 +1,1 @@
+npm i --save @fortawesome/fontawesome-svg-corenpm i --save @fortawesome/free-solid-svg-iconsnpm i --save @fortawesome/react-fontawesomenpm install redux react-reduxnpm i @material-ui/corenpm install @material-ui/labnpm install --save react-router-dom

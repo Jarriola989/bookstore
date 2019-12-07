@@ -1,0 +1,18 @@
+.GenreButton {
+    background-color: transparent;
+    color: white;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    border: none;
+    position: relative;
+    outline: none;
+}
+
+.GenreButton:active {
+    outline: none;
+    border: none;
+}
+  
+.GenreButton:focus {
+    outline: none;
+}

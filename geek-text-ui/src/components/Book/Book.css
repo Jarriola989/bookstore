@@ -1,0 +1,37 @@
+
+
+
+.card {
+    height : 350px;
+    width : 200px;
+    position : relative;
+    justify-content: space-around;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+p {
+    
+    font-size: 14px;
+}
+.title {
+    height: 45px;
+    padding-bottom: 5px;
+    
+}
+.title p {
+    font-size: 15px;
+}
+.stars {
+    font-size: 14px;
+}
+br {
+    line-height: 10%;
+ }
+
+.link {
+    height : 75%;
+}
+
+

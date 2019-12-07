@@ -1,0 +1,29 @@
+.scroll {
+    width: 81.5%;
+    height: 2000px;
+    position: relative;
+    padding: 15px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: flex-start; 
+    margin: 0 auto;
+    vertical-align: top;
+    padding-bottom: 1000px;
+}
+
+.inside {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+a {
+    cursor: pointer;
+}
+
+.center1 {
+    justify-content: center;
+}

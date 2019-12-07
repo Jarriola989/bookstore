@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2186c3e0-b2da-4ad2-8972-21915582995b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/config/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/PaymentOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/PaymentOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/Wishlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/model/Wishlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/service/PaymentOptionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/service/PaymentOptionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/ws/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/ws/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/ws/WishlistRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geektextteam9/com/geektext/ws/WishlistRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/Banner/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/Banner/Banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/Banner/BannerPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/Banner/BannerPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/BookHeader/BookHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/BookHeader/BookHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/BookHeader/BookHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/BookHeader/BookHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/CreateAccount/CreateAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/CreateAccount/CreateAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/LoginRegister/LoginRegister.css" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/LoginRegister/LoginRegister.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/MyAccount/MyAccount.css" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/MyAccount/MyAccount.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/MyAccount/MyAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/MyAccount/MyAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/AddPayment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/AddPayment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/PaymentOptions.css" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/PaymentOptions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/PaymentOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/PaymentOptions/PaymentOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/ShippingOptions/AddShipping.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/ShippingOptions/AddShipping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geek-text-ui/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../geek-text-ui/src/components/header/Header.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SnCc9o6iLxEBdgkFmzkNpSTq0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeekTextApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="geek-text" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="geektextteam9.com.geektext.GeekTextApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2186c3e0-b2da-4ad2-8972-21915582995b" name="Default Changelist" comment="" />
+      <created>1572190050068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572190050068</updated>
+      <workItem from="1572190052544" duration="299000" />
+      <workItem from="1572190361270" duration="18153000" />
+      <workItem from="1572570136814" duration="6608000" />
+      <workItem from="1572664783646" duration="3745000" />
+      <workItem from="1572694002910" duration="34933000" />
+      <workItem from="1573313177540" duration="21454000" />
+      <workItem from="1573759279837" duration="62399000" />
+      <workItem from="1574471787381" duration="495000" />
+      <workItem from="1574472355843" duration="531000" />
+      <workItem from="1574487543748" duration="69000" />
+      <workItem from="1574487623429" duration="7357000" />
+      <workItem from="1574517186166" duration="1490000" />
+      <workItem from="1574797149703" duration="11442000" />
+      <workItem from="1574897489457" duration="9961000" />
+      <workItem from="1575331341530" duration="1912000" />
+      <workItem from="1575416273652" duration="554000" />
+      <workItem from="1575418649107" duration="8363000" />
+    </task>
+    <task id="LOCAL-00001" summary="Janeth API">
+      <created>1572734116438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572734116438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Janeth API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Janeth API" />
+  </component>
+</project>

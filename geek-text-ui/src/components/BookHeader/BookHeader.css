@@ -1,0 +1,78 @@
+.book-nav {
+    width: 80%;
+    position: static;
+    background-color: rgb(18, 4, 104);
+    top: 100px;
+    margin-left: 10%;
+    height: 55px;
+    display: flex;
+    z-index: 200;
+    align-items: center;
+    
+}
+
+
+
+.content {
+    bottom: 0;
+    position: relative;
+    width: 800%;
+    padding: 0px 0px 10px 0px;
+    display: flex;
+    float: left;
+    
+    justify-content: space-around;
+    margin: 0 auto;
+    font-size: 20px;
+    z-index: 400;
+    
+    
+    
+  }
+.content a{
+  color: white;
+}
+
+.content a:hover {
+    text-decoration: none;
+    color: rgb(0, 151, 189);
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+
+.genrecontent {
+    display: flex;
+    justify-content: flex-end;
+    float: left;
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+}
+
+@media (max-width: 1000px) {
+    .content {
+        display: none;
+    }
+  }
+
+  .elements {
+    bottom: 0px;
+    border-bottom: 0px;
+    position: relative;
+    padding: 0px 0px 0px 0px;
+    color: rgb(80, 80, 80);
+    text-decoration: none;
+    font-size: 20px;
+    z-index: 400;
+    
+    float: right;
+    margin: 0 auto;
+}
